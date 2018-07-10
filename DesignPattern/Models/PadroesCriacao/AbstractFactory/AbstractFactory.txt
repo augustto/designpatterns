@@ -1,0 +1,17 @@
+﻿*Intenção: fornecer uma interface para cirar famílias de objetos relacionados ou dependentes sem especificar suas classes concretas.
+
+*Descrição: nesse padrão, a fábrica recebe solicitações por objetos concretos a partir de um cliente. Este padrão pode ser utilizado
+quando um sistema de software precisa ser independente de como classes concretas (produtos) são criadas, compostas ou representadas. No padrão,
+a fábrica fica responsável por encapsular a criação de uma família de produtos. Nesse caso, um cliente precisa conhecer somente as interfaces
+desses produtos, não sua implementação, aumentando o encapsulamento e abstração.
+
+*Beneficios: a aplicação deste padrão traz como benefício principal o isolamento de classes concretas. Se for necessário trocar uma família
+inteira de produtos, esse processo se torna menos impactantenas demais partes do sistema, pos as classes-produto ficam isoladas e não expõem sua
+implementação as classes clientes, diminuindo o acoplamento.
+
+participantes:
+*AbstractFactory - declara uma interface para operações que criam objetos-produtos abstratos;
+*ConcretFactory - implementa as operações que criam objetos-produtos concretos;
+*AbstractProduct- declara uma interface para um tipo de objeto-produto;
+*ConcreteProduct- define um objeto-produto a ser criado pela correspondente fábrica concreta; Implementa a interface AbstractProduct;
+*Cliente - usa somenete as interfaces declaradas pelas classes AbstractFactory e AbstractProduct;

@@ -1,0 +1,26 @@
+﻿Pilares da POO: abstração, ecapsulamento, herança, polimorfismo.
+
+Abstração: capacidade de representar conceitos do domínio do problema, ressaltando apenas o que for relevante para a aplicação em questão. A definição
+da classe em C# atende a esse requisito, pois ela é um modelo limitado de alguma entidade real, que implementa apenas as características que são necessárias
+para a aplicação sendo desenvolvida em um dado contexto.
+
+Encapsulamento: implementação do conceito de ocultação de informação (information hiding), ou seja, esconder os detalhes internos. O uso dos especificadores de visibilidade (private e protected, por exemplo) e o.
+
+Herança: mecanismo que permite a definição de uma hierarquia de classes, com o objetivo de reutilizar características já definidas e estendê-las em níveis maiores 
+de detalhes ou especialização. O C# implementa um mecanismo eficiente de herança simples (apenas uma classe ancestral – não há suporte para herança múltipla de classes).
+
+Polimorfismo: (mesma operação != formas de implementa-las) classes descendentes podem implementar de forma diferente um conjunto de operações comuns.
+
+- Principio básico da POO: programar para interfaces para abstrações.
+  • - abstração: algo abstrato, que só existe na ideia, no conceito.
+  • - interface: contrato(classe) de métodos, quem assim, é obrigado a implementar seus métodos.
+- Nunca programar para uma classe concreta, e sim para sua abstracao.
+- Principio SRP () - single responsibility principle (criação de classe, cada classe deve ter uma única responsabilidade)
+- Relações entre Classes:
+	• associação, possui classes como atributos e uma não depende da outra para exitir.
+	• agregação: quando uma classe utiliza métodos de outra para realizar uma determinada função. explo classe Calculo utiliza metodos da classe PI para 
+	  calcular a área de um circulo.
+	• composição: quando uma classe depende de outra para exitir, exemplo: classe carro depende das classes motor e bateria para estar completa.
+
+Objeto é uma entidade em sua forma concreta.
+Classe é o molde para a criação do objeto

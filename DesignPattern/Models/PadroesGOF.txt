@@ -1,0 +1,4 @@
+﻿Os padrões GOF são organizados em 3 famílias:
+- Padrões de criação: relacionados à criação de objetos
+- Padrões estruturais: tratam das associações entre classes e objetos
+- Padrões comportamentais: tratam das interações e divisões de reponsabilidades entre as classes ou objetos.

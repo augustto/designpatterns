@@ -1,0 +1,106 @@
+C:\Users\i331874\Desktop\Devmedia\C#\DesignPattern\DesignPattern\obj\Debug\DesignPattern.csprojResolveAssemblyReference.cache
+C:\Users\i331874\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\roslyn\csc.exe
+C:\Users\i331874\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\i331874\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\i331874\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\i331874\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\i331874\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\i331874\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\i331874\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\i331874\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\i331874\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\roslyn\vbc.exe
+C:\Users\i331874\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\roslyn\VBCSCompiler.exe
+C:\Users\i331874\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\i331874\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\DesignPattern.dll.config
+C:\Users\i331874\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\DesignPattern.dll
+C:\Users\i331874\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\DesignPattern.pdb
+C:\Users\i331874\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\i331874\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\i331874\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\System.Web.Helpers.dll
+C:\Users\i331874\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\System.Web.Mvc.dll
+C:\Users\i331874\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\System.Web.Razor.dll
+C:\Users\i331874\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\System.Web.Webpages.Deployment.dll
+C:\Users\i331874\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\System.Web.Webpages.dll
+C:\Users\i331874\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\System.Web.Webpages.Razor.dll
+C:\Users\i331874\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\i331874\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\System.Web.Razor.xml
+C:\Users\i331874\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\System.Web.Webpages.xml
+C:\Users\i331874\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\System.Web.Webpages.Deployment.xml
+C:\Users\i331874\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\System.Web.Webpages.Razor.xml
+C:\Users\i331874\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\System.Web.Helpers.xml
+C:\Users\i331874\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\System.Web.Mvc.xml
+C:\Users\i331874\Desktop\Devmedia\C#\DesignPattern\DesignPattern\obj\Debug\DesignPattern.dll
+C:\Users\i331874\Desktop\Devmedia\C#\DesignPattern\DesignPattern\obj\Debug\DesignPattern.pdb
+C:\Users\Augusto\Desktop\Devmedia\C#\DesignPattern\DesignPattern\obj\Debug\DesignPattern.csprojResolveAssemblyReference.cache
+C:\Users\Augusto\Desktop\Devmedia\C#\DesignPattern\DesignPattern\obj\Debug\DesignPattern.dll
+C:\Users\Augusto\Desktop\Devmedia\C#\DesignPattern\DesignPattern\obj\Debug\DesignPattern.pdb
+C:\Users\Augusto\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\roslyn\csc.exe
+C:\Users\Augusto\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Augusto\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Augusto\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Augusto\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Augusto\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Augusto\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Augusto\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Augusto\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Augusto\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\roslyn\vbc.exe
+C:\Users\Augusto\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\roslyn\VBCSCompiler.exe
+C:\Users\Augusto\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Augusto\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\DesignPattern.dll.config
+C:\Users\Augusto\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\DesignPattern.dll
+C:\Users\Augusto\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\DesignPattern.pdb
+C:\Users\Augusto\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Augusto\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Augusto\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\System.Web.Helpers.dll
+C:\Users\Augusto\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\System.Web.Mvc.dll
+C:\Users\Augusto\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\System.Web.Razor.dll
+C:\Users\Augusto\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Augusto\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\System.Web.Webpages.dll
+C:\Users\Augusto\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\System.Web.Webpages.Razor.dll
+C:\Users\Augusto\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Augusto\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\System.Web.Razor.xml
+C:\Users\Augusto\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\System.Web.Webpages.xml
+C:\Users\Augusto\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Augusto\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\System.Web.Webpages.Razor.xml
+C:\Users\Augusto\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\System.Web.Helpers.xml
+C:\Users\Augusto\Desktop\Devmedia\C#\DesignPattern\DesignPattern\bin\System.Web.Mvc.xml
+C:\Users\i331874\Desktop\Devmedia\C#\Guinter Pauli\DesignPattern\DesignPattern\obj\Debug\DesignPattern.csprojResolveAssemblyReference.cache
+C:\Users\i331874\Desktop\Devmedia\C#\Guinter Pauli\DesignPattern\DesignPattern\obj\Debug\DesignPattern.dll
+C:\Users\i331874\Desktop\Devmedia\C#\Guinter Pauli\DesignPattern\DesignPattern\obj\Debug\DesignPattern.pdb
+C:\Users\Augusto\Desktop\Science\Devmedia\C#\Guinter Pauli\DesignPattern\DesignPattern\obj\Debug\DesignPattern.csprojResolveAssemblyReference.cache
+C:\Users\Augusto\Desktop\Science\Devmedia\C#\Guinter Pauli\DesignPattern\DesignPattern\obj\Debug\DesignPattern.dll
+C:\Users\Augusto\Desktop\Science\Devmedia\C#\Guinter Pauli\DesignPattern\DesignPattern\obj\Debug\DesignPattern.pdb
+C:\Users\Augusto\Desktop\Science\Devmedia\C#\Guinter Pauli\DesignPattern\DesignPattern\bin\roslyn\csc.exe
+C:\Users\Augusto\Desktop\Science\Devmedia\C#\Guinter Pauli\DesignPattern\DesignPattern\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Augusto\Desktop\Science\Devmedia\C#\Guinter Pauli\DesignPattern\DesignPattern\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Augusto\Desktop\Science\Devmedia\C#\Guinter Pauli\DesignPattern\DesignPattern\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Augusto\Desktop\Science\Devmedia\C#\Guinter Pauli\DesignPattern\DesignPattern\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Augusto\Desktop\Science\Devmedia\C#\Guinter Pauli\DesignPattern\DesignPattern\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Augusto\Desktop\Science\Devmedia\C#\Guinter Pauli\DesignPattern\DesignPattern\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Augusto\Desktop\Science\Devmedia\C#\Guinter Pauli\DesignPattern\DesignPattern\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Augusto\Desktop\Science\Devmedia\C#\Guinter Pauli\DesignPattern\DesignPattern\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Augusto\Desktop\Science\Devmedia\C#\Guinter Pauli\DesignPattern\DesignPattern\bin\roslyn\vbc.exe
+C:\Users\Augusto\Desktop\Science\Devmedia\C#\Guinter Pauli\DesignPattern\DesignPattern\bin\roslyn\VBCSCompiler.exe
+C:\Users\Augusto\Desktop\Science\Devmedia\C#\Guinter Pauli\DesignPattern\DesignPattern\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Augusto\Desktop\Science\Devmedia\C#\Guinter Pauli\DesignPattern\DesignPattern\bin\DesignPattern.dll.config
+C:\Users\Augusto\Desktop\Science\Devmedia\C#\Guinter Pauli\DesignPattern\DesignPattern\bin\DesignPattern.dll
+C:\Users\Augusto\Desktop\Science\Devmedia\C#\Guinter Pauli\DesignPattern\DesignPattern\bin\DesignPattern.pdb
+C:\Users\Augusto\Desktop\Science\Devmedia\C#\Guinter Pauli\DesignPattern\DesignPattern\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Augusto\Desktop\Science\Devmedia\C#\Guinter Pauli\DesignPattern\DesignPattern\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Augusto\Desktop\Science\Devmedia\C#\Guinter Pauli\DesignPattern\DesignPattern\bin\System.Web.Helpers.dll
+C:\Users\Augusto\Desktop\Science\Devmedia\C#\Guinter Pauli\DesignPattern\DesignPattern\bin\System.Web.Mvc.dll
+C:\Users\Augusto\Desktop\Science\Devmedia\C#\Guinter Pauli\DesignPattern\DesignPattern\bin\System.Web.Razor.dll
+C:\Users\Augusto\Desktop\Science\Devmedia\C#\Guinter Pauli\DesignPattern\DesignPattern\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Augusto\Desktop\Science\Devmedia\C#\Guinter Pauli\DesignPattern\DesignPattern\bin\System.Web.Webpages.dll
+C:\Users\Augusto\Desktop\Science\Devmedia\C#\Guinter Pauli\DesignPattern\DesignPattern\bin\System.Web.Webpages.Razor.dll
+C:\Users\Augusto\Desktop\Science\Devmedia\C#\Guinter Pauli\DesignPattern\DesignPattern\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Augusto\Desktop\Science\Devmedia\C#\Guinter Pauli\DesignPattern\DesignPattern\bin\System.Web.Razor.xml
+C:\Users\Augusto\Desktop\Science\Devmedia\C#\Guinter Pauli\DesignPattern\DesignPattern\bin\System.Web.Webpages.xml
+C:\Users\Augusto\Desktop\Science\Devmedia\C#\Guinter Pauli\DesignPattern\DesignPattern\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Augusto\Desktop\Science\Devmedia\C#\Guinter Pauli\DesignPattern\DesignPattern\bin\System.Web.Webpages.Razor.xml
+C:\Users\Augusto\Desktop\Science\Devmedia\C#\Guinter Pauli\DesignPattern\DesignPattern\bin\System.Web.Helpers.xml
+C:\Users\Augusto\Desktop\Science\Devmedia\C#\Guinter Pauli\DesignPattern\DesignPattern\bin\System.Web.Mvc.xml
+C:\Users\Augusto\Desktop\pagarme\git\DesignPattern\DesignPattern\obj\Debug\DesignPattern.csprojResolveAssemblyReference.cache
+C:\Users\Augusto\Desktop\pagarme\git\DesignPattern\DesignPattern\obj\Debug\DesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Augusto\Desktop\pagarme\git\DesignPattern\DesignPattern\obj\Debug\DesignPattern.dll
+C:\Users\Augusto\Desktop\pagarme\git\DesignPattern\DesignPattern\obj\Debug\DesignPattern.pdb
